@@ -15,8 +15,7 @@ A console-based Tic Tac Toe game featuring a player vs computer mode, multiple r
 A console-based Rock Paper Scissors game featuring a player vs computer mode, multiple rounds, and replay functionality.
 
 Technologies:
-Python
-Python Standard Library
+Python; Python Standard Library
 
 Purpose:
 
